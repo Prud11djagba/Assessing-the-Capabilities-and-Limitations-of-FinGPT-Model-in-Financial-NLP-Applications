@@ -1,0 +1,1 @@
+# Assessing-the-Capabilities-and-Limitations-of-FinGPT-Model-in-Financial-NLP-Applications
