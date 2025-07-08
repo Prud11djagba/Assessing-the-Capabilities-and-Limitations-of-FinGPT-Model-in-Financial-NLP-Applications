@@ -17,7 +17,7 @@ This work evaluates FinGPT, a financial domain-specific language model, across s
 # Results: Comparison - FinGPT vs FinMA
 
 
-![image alt]()
+![image alt](https://github.com/Prud11djagba/Assessing-the-Capabilities-and-Limitations-of-FinGPT-Model-in-Financial-NLP-Applications/blob/427c92532b119f83dbdb7c430c598a2438caf89d/Image/fingpt%20vs%20finma.png)
 
 ![image alt]()
 
