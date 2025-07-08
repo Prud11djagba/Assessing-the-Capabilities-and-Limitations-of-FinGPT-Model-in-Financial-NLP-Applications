@@ -6,3 +6,7 @@ This work evaluates FinGPT, a financial domain-specific language model, across s
 # Research Questions and Objectives
 ![image alt](https://github.com/Prud11djagba/Assessing-the-Capabilities-and-Limitations-of-FinGPT-Model-in-Financial-NLP-Applications/blob/46e69a494bb8be07be3a0104fa80dc2a27ca3fdc/Image/thesis%20question.png)
 
+# Methodology
+![image alt]()
+
+
