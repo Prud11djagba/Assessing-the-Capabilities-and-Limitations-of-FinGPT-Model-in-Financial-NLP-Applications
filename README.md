@@ -4,5 +4,5 @@ This work evaluates FinGPT, a financial domain-specific language model, across s
 
 
 # Research Questions and Objectives
-![image alt](
+![image alt](Image/thesis question.png
 
