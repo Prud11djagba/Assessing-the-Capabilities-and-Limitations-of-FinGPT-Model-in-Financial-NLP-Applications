@@ -26,7 +26,7 @@ This work evaluates FinGPT, a financial domain-specific language model, across s
 # Directional sensitivity analysis
 
 
-![image alt]()
+![image alt](https://github.com/Prud11djagba/Assessing-the-Capabilities-and-Limitations-of-FinGPT-Model-in-Financial-NLP-Applications/blob/466653943873b378c8b3d9b7958e105f2fed2ce0/Image/SMP%20-%20new%20(1).png)
 
 
 
